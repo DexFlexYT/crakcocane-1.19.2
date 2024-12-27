@@ -15,4 +15,4 @@ public class CrakCocane implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 	}
-}
+}xx
